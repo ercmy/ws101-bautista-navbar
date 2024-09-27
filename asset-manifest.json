@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ws101-bautista-navbar/static/css/main.598215d2.css",
+    "main.css": "/ws101-bautista-navbar/static/css/main.c8be09e8.css",
     "main.js": "/ws101-bautista-navbar/static/js/main.44e8f8ce.js",
     "static/js/453.f8fc169f.chunk.js": "/ws101-bautista-navbar/static/js/453.f8fc169f.chunk.js",
     "index.html": "/ws101-bautista-navbar/index.html",
-    "main.598215d2.css.map": "/ws101-bautista-navbar/static/css/main.598215d2.css.map",
+    "main.c8be09e8.css.map": "/ws101-bautista-navbar/static/css/main.c8be09e8.css.map",
     "main.44e8f8ce.js.map": "/ws101-bautista-navbar/static/js/main.44e8f8ce.js.map",
     "453.f8fc169f.chunk.js.map": "/ws101-bautista-navbar/static/js/453.f8fc169f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.598215d2.css",
+    "static/css/main.c8be09e8.css",
     "static/js/main.44e8f8ce.js"
   ]
 }
