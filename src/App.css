@@ -5,7 +5,7 @@
 }
 
 .section-container {
-  background: #fff;
+  background: #1b9db4b9;
   padding: 100px;
   border-radius: 15px;
   margin: auto;
@@ -19,5 +19,6 @@
   align-items: center;
   text-align: center;
   margin-top: 80px;
+  font-size: 100px;
   
 }
